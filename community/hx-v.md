@@ -1,5 +1,5 @@
-"Welcome! I'm Vanessa!
-
-Scientist with a focus on data, machine learning, and neuroscience."
-
-"I'm passionate about exploring the intersections of data science, machine learning, and neuroscience. Feel free to connect and collaborate!"
+- 👋 Hello world! I’m Vanessa!
+- 👀 I'm passionate about Data Science, Machine Learning, Neuroscience & Psychology.
+- 🌱 I’m constantly learning.
+- 💞️ I’m looking to collaborate on ML Innovation Projects.
+- 📫 How to reach me [...](https://www.linkedin.com/in/vanessacmarino/)
